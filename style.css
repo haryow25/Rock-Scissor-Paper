@@ -344,6 +344,10 @@ nav {
   border: 1px solid #979797;
 }
 
+.cursor {
+  cursor: pointer;
+}
+
 @media only screen and (max-width: 600px) {
   .requirement h3 {
     font-size: 12px;
